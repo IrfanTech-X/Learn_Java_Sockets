@@ -20,14 +20,13 @@ This repository provides a 10-day roadmap with daily lectures, real-life example
 
 ## 🗂️ Repository Structure
 
-```
+
 
 learn-java-sockets/
 ├── Lecture/                   # Day-wise learning notes (Day 1 - Day 10)
 ├── Roadmap/                   # Roadmap to guide your learning progress
 ├── SocketProgramming-Codes/   # Java code examples and final project
 
-````
 
 ### 📁 Lecture/  
 Contains written explanations, diagrams, and notes for each learning day:  
@@ -75,10 +74,10 @@ Java code examples for each day of learning:
 
 1. **Clone the repo**
 
-   ```bash
+
    git clone https://github.com/<your-username>/learn-java-sockets.git
    cd learn-java-sockets
-````
+
 
 2. **Follow the roadmap**
 
@@ -135,8 +134,11 @@ Feel free to:
 
 ## 📬 Author
 
-Made with ❤️ and ☕ by **\[Your Name]**
-Feel free to connect with me on [LinkedIn](#) or check out my other projects.
+**Irfan Ferdous Siam**  
+🎓 BSc in CSE, Green University of Bangladesh  
+📧 Email: [siamtalukdar3@gmail.com](mailto:siamtalukdar3@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)  
+💻 GitHub: [github.com/IrfanTech-X](https://github.com/IrfanTech-X)
 
 ---
 
